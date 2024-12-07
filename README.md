@@ -1,4 +1,4 @@
-# Aplicação React de Gerenciamento de Projetos e Tarefas
+# Projeto com React para Faculdade Descomplica
 
 Projeto criado com as bibliotecas React JS e Material UI.
 
@@ -13,3 +13,7 @@ Projeto criado com as bibliotecas React JS e Material UI.
    `
    npm start
    `
+
+### Descrição do projeto
+
+Este projeto foi desenvolvido para aprendizado e prática com versionamento de código, utilizando as bibliotecas React JS e Material UI.
